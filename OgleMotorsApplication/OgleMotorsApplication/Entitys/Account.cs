@@ -27,6 +27,9 @@ namespace OgleMotorsApplication.Entitys
         public void doAthing()
         {
             string a = "Dave";
+            a = "Do some more things";
+            int b = 20;
+            b += 40;
         }
     }
 }
