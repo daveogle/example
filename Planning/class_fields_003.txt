@@ -1,0 +1,21 @@
+ProductionOrder:
+
+Storage:
+int capacity
+int storageId
+List<Car> car
+Address address
+
+Order:
+int orderNo
+DateTime start
+DateTime estimatedEnd
+DateTime end
+int staffId
+bool confirmed
+string comments
+List<Car> car
+Address address
+
+ShippingOrder:
+int dealershipId

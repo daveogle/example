@@ -1,0 +1,21 @@
+001. Create project (Dave);
+002. Add entity classes: Purchase, Customer, Address, Dealership, Staff, Account (Andy);
+003. Add entity classes: ShippingOrder, ProdctionOrder, Order, Storage (Dave);
+004. Add entity classes: Car, Engine, Accessory (Kevin);
+005. Add entity classes: Demographics, Country, Region, CompanySale (Lynsey);
+006. Add views in SQL for board of directors and human resources (Babs);
+006. Create view for board of directors and human resources (Babs);
+007. Add Model Class skeleton, Add Controller Class skeleton, Add db access Class skeleton, Add Operations Class skeleton and folder (Andy);
+008. Add basic functionality to db access Class;
+009. 
+010.
+011.
+012.
+013.
+014.
+015.
+016.
+017.
+018.
+019.
+020.
