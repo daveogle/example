@@ -19,6 +19,9 @@ namespace OgleMotorsApplication.Entitys
         public Address()
         { }
 
+        public void foo()
+        { }
+
         /// <summary>
         /// Compares this address' city to the one passed
         /// </summary>
