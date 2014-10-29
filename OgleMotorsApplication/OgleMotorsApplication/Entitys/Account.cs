@@ -23,5 +23,10 @@ namespace OgleMotorsApplication.Entitys
         {
             return password == toCompare;
         }
+
+        public void doAthing()
+        {
+            string a = "Dave";
+        }
     }
 }
